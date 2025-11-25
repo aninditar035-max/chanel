@@ -31,8 +31,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
-#EXTM3U
-
 #EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
 
