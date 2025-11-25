@@ -29,3 +29,576 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",24 News HD
+http://66.102.120.18:8000/play/a04v/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",24B HD
+http://66.102.120.18:8000/play/a044/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",365 NEWS
+http://66.102.120.18:8000/play/a039/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",8XM HD
+http://66.102.120.18:8000/play/a050/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",92 Entertainment
+http://66.102.120.18:8000/play/a06m/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",92 News HD
+http://66.102.120.18:8000/play/a04y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",A SportsHD
+http://66.102.120.18:8000/play/a032/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",A1 TV
+http://66.102.120.18:8000/play/a04q/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",AAJ ENTERTANMENT
+http://66.102.120.18:8000/play/a05b/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",AAJ NEWS
+http://66.102.120.18:8000/play/a05a/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",AAN TV - HD
+http://66.102.120.18:8000/play/a05j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ABBTAKK HD
+http://66.102.120.18:8000/play/a051/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",AIK NEWS
+http://66.102.120.18:8000/play/a03d/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",APNA CHANNEL HD
+http://66.102.120.18:8000/play/a04z/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",APlus Pakistan
+http://66.102.120.18:8000/play/a03c/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ARYDigitalAsia HD
+http://66.102.120.18:8000/play/a030/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ARYMusik
+http://66.102.120.18:8000/play/a036/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ARYNewsAsia
+http://66.102.120.18:8000/play/a02z/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ARYQTV
+http://66.102.120.18:8000/play/a033/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ARYZindagi
+http://66.102.120.18:8000/play/a031/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ATV ENT HD
+http://66.102.120.18:8000/play/a03t/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",AUR_Life HD
+http://66.102.120.18:8000/play/a05k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",AXN 
+http://66.102.120.18:8000/play/a06i/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Al Jazeera English HD
+http://66.102.120.18:8000/play/a03j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Animal Planet - Rs 2.00
+http://66.102.120.18:8000/play/a010/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",B4U Movies - Free
+http://66.102.120.18:8000/play/a01w/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",BBC CEBEEBIES HD
+http://66.102.120.18:8000/play/a06g/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",BBC LIFESTYLE HD
+http://66.102.120.18:8000/play/a06h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",BBC News 
+http://66.102.120.18:8000/play/a074/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",BOL News Urdu
+http://66.102.120.18:8000/play/a038/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",CITY-21
+http://66.102.120.18:8000/play/a05z/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",CITY-42 HD
+http://66.102.120.18:8000/play/a05x/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",CNN International
+http://66.102.120.18:8000/play/a03h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Capital TV
+http://66.102.120.18:8000/play/a02y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Cartoon Network HD+ 
+http://66.102.120.18:8000/play/a07d/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Colors HD - Rs 19.00
+http://66.102.120.18:8000/play/a00a/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",DW English HD
+http://66.102.120.18:8000/play/a03i/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Discover Pakistan
+http://66.102.120.18:8000/play/a06r/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Discover Pakistan
+http://66.102.120.18:8000/play/a03v/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Disney Junior - Rs 4.00
+http://66.102.120.18:8000/play/a004/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Disny 
+http://66.102.120.18:8000/play/a070/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Dunya News HD
+http://66.102.120.18:8000/play/a04u/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",EXP ENTERTAINMENT
+http://66.102.120.18:8000/play/a054/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",EXPRESS NEWS
+http://66.102.120.18:8000/play/a053/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Eurosport HD - Rs 6.00
+http://66.102.120.18:8000/play/a01g/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",FAST SPORTS HD
+http://66.102.120.18:8000/play/a05f/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",FILMAX
+http://66.102.120.18:8000/play/a04c/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",FILMAZIA
+http://66.102.120.18:8000/play/a04d/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",FILMAZIA PUNJABI
+http://66.102.120.18:8000/play/a04n/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",FIX&FOXI
+http://66.102.120.18:8000/play/a04b/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",FN MOVIES HD
+http://66.102.120.18:8000/play/a06e/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GEM COMEDY
+http://66.102.120.18:8000/play/a049/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GEM TV HD
+http://66.102.120.18:8000/play/a045/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GEO HD
+http://66.102.120.18:8000/play/a062/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GEO KAHANI HD
+http://66.102.120.18:8000/play/a064/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GEO NEWS
+http://66.102.120.18:8000/play/a05w/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GEO SUPER HD
+http://66.102.120.18:8000/play/a063/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GNNHD
+http://66.102.120.18:8000/play/a06p/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GTV NEWS HD
+http://66.102.120.18:8000/play/a05m/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",GTV NEWS HD
+http://66.102.120.18:8000/play/a05l/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Geo Tez
+http://66.102.120.18:8000/play/a05o/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",HUM HD
+http://66.102.120.18:8000/play/a06c/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",HUM NEWS HD
+http://66.102.120.18:8000/play/a05e/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",HUM SITARAY
+http://66.102.120.18:8000/play/a05i/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Hidayat TV
+http://66.102.120.18:8000/play/a04p/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",History TV18 HD - Rs 7.00 
+http://66.102.120.18:8000/play/a01q/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Hoora TV
+http://66.102.120.18:8000/play/a040/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",INPLUS Pakistan
+http://66.102.120.18:8000/play/a02x/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Investigation Discovery - Rs 1.00
+http://66.102.120.18:8000/play/a01h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Isaac TV
+http://66.102.120.18:8000/play/a04j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",JALWA HD
+http://66.102.120.18:8000/play/a052/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",KSA SPORT1 HD
+http://66.102.120.18:8000/play/a03o/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",KSA SPORT2 HD
+http://66.102.120.18:8000/play/a03p/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Khyber News HD
+http://66.102.120.18:8000/play/a058/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Kidzone Pakistan
+http://66.102.120.18:8000/play/a02l/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",LTN FAMILY
+http://66.102.120.18:8000/play/a04a/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Lahore News HD
+http://66.102.120.18:8000/play/a04x/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Lahore Rang HD
+http://66.102.120.18:8000/play/a05h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",LotusTV
+http://66.102.120.18:8000/play/a03b/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MASALA TV
+http://66.102.120.18:8000/play/a059/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MIFA + HD
+http://66.102.120.18:8000/play/a048/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MIFA + HD
+http://66.102.120.18:8000/play/a047/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MIFA MUSIC HD
+http://66.102.120.18:8000/play/a046/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MINIMAX 2
+http://66.102.120.18:8000/play/a04o/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 1HD
+http://66.102.120.18:8000/play/a07m/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 2HD
+http://66.102.120.18:8000/play/a07j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 3HD
+http://66.102.120.18:8000/play/a07k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 4HD
+http://66.102.120.18:8000/play/a07l/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 5HD
+http://66.102.120.18:8000/play/a07i/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 6HD
+http://66.102.120.18:8000/play/a07h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL 8HD
+http://66.102.120.18:8000/play/a07g/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MTCL7HD
+http://66.102.120.18:8000/play/a07f/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",MUN TV
+http://66.102.120.18:8000/play/a02j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Mastiii - Free
+http://66.102.120.18:8000/play/a073/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Metro 1
+http://66.102.120.18:8000/play/a034/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Movies Now HD - Rs 14.00
+http://66.102.120.18:8000/play/a019/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://66.102.120.18:8000/play/a01f/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",NEO NEWS HD
+http://66.102.120.18:8000/play/a05g/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",NEWS ONE
+http://66.102.120.18:8000/play/a057/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",NHK WORLD-JPN
+http://66.102.120.18:8000/play/a03k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",NOOR TV PK
+http://66.102.120.18:8000/play/a04m/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Nat Geo Wild HD - Rs 8.00
+http://66.102.120.18:8000/play/a01d/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Nick  - Rs 6.00
+http://66.102.120.18:8000/play/a00w/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Nick HD+ 
+http://66.102.120.18:8000/play/a07a/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Nick Jr. - Rs 1.00
+http://66.102.120.18:8000/play/a00m/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ONYX HD
+http://66.102.120.18:8000/play/a041/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",PTV HOME HD
+http://66.102.120.18:8000/play/a04r/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",PTV NATIONAL
+http://66.102.120.18:8000/play/a03s/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",PTV NEWS HD
+http://66.102.120.18:8000/play/a04s/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",PTV WORLD HD
+http://66.102.120.18:8000/play/a04t/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",PTV-SPORTS-HD
+http://66.102.120.18:8000/play/a04w/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Paigham Pashto
+http://66.102.120.18:8000/play/a04g/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Paigham Urdu
+http://66.102.120.18:8000/play/a04k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Paigham Urdu
+http://66.102.120.18:8000/play/a03e/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Peace TV English  HD
+http://66.102.120.18:8000/play/a05q/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Peace TV Urdu  HD
+http://66.102.120.18:8000/play/a05p/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Planet Fun HD
+http://66.102.120.18:8000/play/a02k/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Public News
+http://66.102.120.18:8000/play/a03u/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",QURAN TV
+http://66.102.120.18:8000/play/a04h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",RIVER HD
+http://66.102.120.18:8000/play/a043/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",ROHI TV
+http://66.102.120.18:8000/play/a05y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",RUBIX HD
+http://66.102.120.18:8000/play/a042/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Romedy Now - Rs 5.00
+http://66.102.120.18:8000/play/a01j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SAMAA
+http://66.102.120.18:8000/play/a06o/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SAUDI CH For Quran HD
+http://66.102.120.18:8000/play/a03m/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SAUDI CH For Sunnah HD
+http://66.102.120.18:8000/play/a03n/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY MAX HD
+http://66.102.120.18:8000/play/a071/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY PAL - Rs 0.50
+http://66.102.120.18:8000/play/a00j/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SAB HD - Rs 19.00
+http://66.102.120.18:8000/play/a00d/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a012/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SPORTS TEN 3 HD - Rs 19.00
+http://66.102.120.18:8000/play/a013/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SPORTS TEN 4 - Rs 17.00
+http://66.102.120.18:8000/play/a014/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SPORTS TEN 5 HD 
+http://66.102.120.18:8000/play/a07b/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY SPORTS TEN4 HD 
+http://66.102.120.18:8000/play/a07n/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY WAH - Rs 0.10
+http://66.102.120.18:8000/play/a007/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR Sports 1 Hindi HD 
+http://66.102.120.18:8000/play/a072/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",STAR Sports2 Hindi HD 
+http://66.102.120.18:8000/play/a00v/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",SUNO NEWS HD
+http://66.102.120.18:8000/play/a05n/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Sab TV
+http://66.102.120.18:8000/play/a035/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",See TV
+http://66.102.120.18:8000/play/a03y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Set Entertainment
+http://66.102.120.18:8000/play/a05r/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Showbox - Rs 0.10
+http://66.102.120.18:8000/play/a018/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Sindh News
+http://66.102.120.18:8000/play/a03x/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Sindh TV
+http://66.102.120.18:8000/play/a03w/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Gold 2 HD
+http://66.102.120.18:8000/play/a077/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star News Asia
+http://66.102.120.18:8000/play/a03z/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",TLC HD - Rs 3.00
+http://66.102.120.18:8000/play/a01c/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",TRT World HD
+http://66.102.120.18:8000/play/a03l/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",TV ONE
+http://66.102.120.18:8000/play/a055/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Travelxp HD
+http://66.102.120.18:8000/play/a075/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",WASEB TV
+http://66.102.120.18:8000/play/a056/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Zee Cinema HD 
+http://66.102.120.18:8000/play/a06w/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y/index.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.ibb.co/ks4Ns1PV/logo.jpg",iFilm English
+http://66.102.120.18:8000/play/a06n/index.m3u8
