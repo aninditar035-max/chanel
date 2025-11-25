@@ -3,6 +3,21 @@
 #EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3w2845ys" group-title="Bangla",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/325242nm" group-title="Bangla",ABP Ananda
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/473c48fx" group-title="Bangla",Zee 24 Ghanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/53pw87ek" group-title="Bangla",TV9 Bangla
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3evptytc" group-title="Bangla",News 18 Bangla
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/zwkr4ajn" group-title="Bangla",Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+
 #EXTINF:-0 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
@@ -11,21 +26,6 @@ http://103.240.44.26/Star-Jasha-HD/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-0 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/473c48fx" group-title="Bangla",Zee 24 Ghanta
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/53pw87ek" group-title="Bangla",TV9 Bangla
-https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/325242nm" group-title="Bangla",ABP Ananda
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3evptytc" group-title="Bangla",News 18 Bangla
-https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/zwkr4ajn" group-title="Bangla",Calcutta News
-https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
