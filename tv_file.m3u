@@ -22,7 +22,7 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-http://103.240.44.26/Star-Jasha-HD/tracks-v1/index.fmp4.m3u8
+https://hostbff.vercel.app/star-jalsha.m3u8
 
 #EXTINF:-0 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
