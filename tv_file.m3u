@@ -22,7 +22,7 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-https://hostbff.vercel.app/star-jalsha.m3u8
+http://103.166.152.22:8080/roarzone/bk/30/index.m3u8?token=06ea22030559fe983ad0617ce786cf503d6c1842-377a32f5bfefa8922a10a9462ef0edbe-1764164713-1764153913
 
 #EXTINF:-0 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
