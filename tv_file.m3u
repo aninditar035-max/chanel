@@ -30,8 +30,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 https://rb.gy/fa6izn
 
-#EXTM3U
-
 #EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3w2845ys" group-title="Bangla",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 
@@ -54,10 +52,7 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-http://103.166.152.22:8080/roarzone/bk/30/index.m3u8?token=06ea22030559fe983ad0617ce786cf503d6c1842-377a32f5bfefa8922a10a9462ef0edbe-1764164713-1764153913
+https://index.aninditar035.workers.dev/?url=http://103.166.152.22:8080/roarzone/bk/30/index.m3u8?token=06ea22030559fe983ad0617ce786cf503d6c1842-377a32f5bfefa8922a10a9462ef0edbe-1764164713-1764153913
 
 #EXTINF:-0 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-
-#EXTINF:-0 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports", t sports
-https://index.aninditar035.workers.dev/?url=http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=5df123ad485bb8cc639132246bb97fef00b7e0bf-90d035389b044342d12d05e3ecd2cd88-1764164703-1764153903
