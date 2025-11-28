@@ -18,26 +18,23 @@ https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/zwkr4ajn" group-title="Bangla",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
+#EXTINF:-0 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="Bangla",Zee Bangla HD 
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8 
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
+#EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Bangla",Star Jalsha HD
 http://87.255.35.150:18237
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
-#EXTINF:-0 tvg-logo="" group-title="",movie
+#EXTINF:-0 tvg-logo="" group-title="Bangla",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/Xxz6ChKQ/unnamed-1.jpg" group-title="",Disney CHANNEL HD
+#EXTINF:-0 tvg-logo="https://i.ibb.co/Xxz6ChKQ/unnamed-1.jpg" group-title="Kids",Disney CHANNEL HD
 http://66.102.120.18:8000/play/a013/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
-http://103.182.170.32:8888/play/a04g
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
-http://66.102.120.18:8000/play/a070
+http://66.102.120.18:8000/play/a070/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
 http://66.102.120.18:8000/play/a00p
