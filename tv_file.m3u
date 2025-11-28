@@ -26,3 +26,6 @@ https://index.aninditar035.workers.dev/?url=http://103.166.152.22:8080/roarzone/
 
 #EXTINF:-0 tvg-logo="https://imgur.com/GrOYn9u.jpeg" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3w2845ys" group-title="Bangla",DISNEY CHANEL
+http://66.102.120.18:8000/play/a070/index.m3u8
