@@ -19,15 +19,35 @@ https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD 
-https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+http://87.255.35.150:18238/
 
 #EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha HD
-https://index.aninditar035.workers.dev/?url=http://103.166.152.22:8080/roarzone/bk/30/index.m3u8?token=007be5186af25ade4e17de2d8fa01460e797798b-a9792c5280f6ff61d3d777444bcfea78-1764178968-1764168168
+http://87.255.35.150:18237
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 #EXTINF:-0 tvg-logo="" group-title="",movie
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
+#EXTINF:-0 tvg-logo="https://i.ibb.co/Xxz6ChKQ/unnamed-1.jpg" group-title="",Disney CHANNEL HD
+http://66.102.120.18:8000/play/a013/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
+http://103.182.170.32:8888/play/a04g
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
+http://66.102.120.18:8000/play/a070
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
+http://66.102.120.18:8000/play/a00p
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+http://66.102.120.18:8000/play/a00t
+
 #EXTM3U
+#EXTINF:-1 ,Disney CH
+http://66.102.120.18:8000/play/a070/index.m3u8
 #EXTINF:-1 ,&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
 #EXTINF:-1 ,&pictures HD - Rs 19.00
@@ -120,8 +140,6 @@ http://66.102.120.18:8000/play/a016/index.m3u8
 http://66.102.120.18:8000/play/a078/index.m3u8
 #EXTINF:-1 ,Disney Junior - Rs 4.00
 http://66.102.120.18:8000/play/a004/index.m3u8
-#EXTINF:-1 ,Disny
-http://66.102.120.18:8000/play/a070/index.m3u8
 #EXTINF:-1 ,Dunya News HD
 http://66.102.120.18:8000/play/a04u/index.m3u8
 #EXTINF:-1 ,EXP ENTERTAINMENT
@@ -372,3 +390,15 @@ http://66.102.120.18:8000/play/a006/index.m3u8
 http://66.102.120.18:8000/play/a00y/index.m3u8
 #EXTINF:-1 ,iFilm English
 http://66.102.120.18:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Ten 1 HD 
+http://87.255.35.150:18926/
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Ten 2 HD
+http://66.102.120.18:8000/play/a01y
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Ten 5 HD
+http://66.102.120.18:8000/play/a010
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
