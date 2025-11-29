@@ -1,75 +1,75 @@
 #EXTM3U
 
 # ============== NEWS ==============
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3w2845ys" group-title="News",R Bangla
+#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/3w2845ys",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/325242nm" group-title="News",ABP Ananda
+#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/325242nm",ABP Ananda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/473c48fx" group-title="News",Zee 24 Ghanta
+#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/473c48fx",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/53pw87ek" group-title="News",TV9 Bangla
+#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/53pw87ek",TV9 Bangla
 https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/3evptytc" group-title="News",News 18 Bangla
+#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/3evptytc",News 18 Bangla
 https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://tinyurl.com/zwkr4ajn" group-title="News",Calcutta News
+#EXTINF:-1 group-title="News" tvg-logo="https://tinyurl.com/zwkr4ajn",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
-#EXTINF:-1 group-title="News" ,24 News HD
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",24 News HD
 http://66.102.120.18:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="News" ,365 NEWS
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",365 NEWS
 http://66.102.120.18:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="News" ,92 News HD
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",92 News HD
 http://66.102.120.18:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="News" ,BBC News
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",BBC News
 http://66.102.120.18:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="News" ,CNN International
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",CNN International
 http://66.102.120.18:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="News" ,SUNO NEWS HD
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",SUNO NEWS HD
 http://66.102.120.18:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="News" ,Sindh News
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",Sindh News
 http://66.102.120.18:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="News",AAJ TAK (IND)
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",AAJ TAK (IND)
 http://87.255.35.150:18958/
-#EXTINF:-1 group-title="News",NDTV (IND)
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",NDTV (IND)
 http://87.255.35.150:18819/
-#EXTINF:-1 group-title="News",ZEE NEWS (IND)
+#EXTINF:-1 group-title="News" tvg-logo="https://download.rsciptv.site/logo.jpg",ZEE NEWS (IND)
 http://87.255.35.150:18854/
 
 # ============== BENGALI ENTERTAINMENT ==============
-#EXTINF:-0 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="Bengali",Zee Bangla HD 
+#EXTINF:-1 group-title="Bengali" tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg",Zee Bangla HD 
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8 
-#EXTINF:-0 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="Bengali",Star Jalsha HD
+#EXTINF:-1 group-title="Bengali" tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png",Star Jalsha HD
 http://87.255.35.150:18237
 #EXTINF:-1 group-title="Bengali" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 # ============== KIDS ==============
-#EXTINF:-0 tvg-logo="" group-title="Kids",Gopal Bhar
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-0 tvg-logo="https://i.ibb.co/Xxz6ChKQ/unnamed-1.jpg" group-title="Kids",Disney CHANNEL HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/Xxz6ChKQ/unnamed-1.jpg",Disney CHANNEL HD
 http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
 http://66.102.120.18:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="Kids" ,Disney CH
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Disney CH
 http://66.102.120.18:8000/play/a070/index.m3u8
-#EXTINF:-1 group-title="Kids" ,Disney International HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Disney International HD
 http://66.102.120.18:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="Kids" ,Disney Junior - Rs 4.00
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Disney Junior - Rs 4.00
 http://66.102.120.18:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
 http://66.102.120.18:8000/play/a00p
-#EXTINF:-1 group-title="Kids" ,Sonic - Rs 1.00
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Sonic - Rs 1.00
 http://66.102.120.18:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://66.102.120.18:8000/play/a00t
-#EXTINF:-1 group-title="Kids" ,Cartoon Network - Rs 4.75
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Cartoon Network - Rs 4.75
 http://66.102.120.18:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Kids" ,Discovery Kids - Rs 3.50
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Discovery Kids - Rs 3.50
 http://66.102.120.18:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Kids" ,Pogo - Rs 4.75
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",Pogo - Rs 4.75
 http://66.102.120.18:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Kids" ,SONY YAY! - Rs 4.00
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY YAY! - Rs 4.00
 http://66.102.120.18:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Kids",HUNGAMA TV (IND)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://download.rsciptv.site/logo.jpg",HUNGAMA TV (IND)
 http://87.255.35.150:18811/
 
 # ============== SPORTS ==============
@@ -95,117 +95,117 @@ http://66.102.120.18:8000/play/a010
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 # ============== ENTERTAINMENT & MOVIES ==============
-#EXTINF:-1 group-title="Entertainment" ,&flix HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,&pictures HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",&pictures HD - Rs 19.00
 http://66.102.120.18:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,&tv HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",&tv HD - Rs 19.00
 http://66.102.120.18:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,24B HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",24B HD
 http://66.102.120.18:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,8XM HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",8XM HD
 http://66.102.120.18:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,92 Entertainment
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",92 Entertainment
 http://66.102.120.18:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Animal Planet - Rs 2.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Animal Planet - Rs 2.00
 http://66.102.120.18:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,B4U Movies - Free
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",B4U Movies - Free
 http://66.102.120.18:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,COLORS CINIPLEX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",COLORS CINIPLEX HD
 http://66.102.120.18:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Capital TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Capital TV
 http://66.102.120.18:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Colors Cineplex Bollywood - Rs 0.10
 http://66.102.120.18:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Colors HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Colors HD - Rs 19.00
 http://66.102.120.18:8000/play/a00a/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,COLORS INFINITY HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",COLORS INFINITY HD
 http://87.255.35.150:18838
-#EXTINF:-1 group-title="Entertainment" ,DW English HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",DW English HD
 http://66.102.120.18:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Discovery HD - Rs 8.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Discovery HD - Rs 8.00
 http://66.102.120.18:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Discovery HD - Rs 8.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Discovery HD - Rs 8.00
 http://66.102.120.18:8000/play/a01k
-#EXTINF:-1 group-title="Entertainment" ,Discovery Science - Rs 1.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Discovery Science - Rs 1.00
 http://66.102.120.18:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Discovery Turbo - Rs 1.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Discovery Turbo - Rs 1.00
 http://66.102.120.18:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,SET HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SET HD - Rs 19.00
 http://66.102.120.18:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,SONY BBC EARTH HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY BBC EARTH HD - Rs 19.00
 http://66.102.120.18:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,SONY MAX - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY MAX - Rs 19.00
 http://66.102.120.18:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,SONY MAX 2 - Rs 1.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY MAX 2 - Rs 1.00
 http://66.102.120.18:8000/play/a00h/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,SONY MAX 2
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY MAX 2
 http://87.255.35.150:18841
-#EXTINF:-1 group-title="Entertainment" ,SONY MAX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY MAX HD
 http://66.102.120.18:8000/play/a071/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,SONY MAX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY MAX HD
 http://87.255.35.150:18851
-#EXTINF:-1 group-title="Entertainment" ,SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY PIX HD - Rs 19.00
 http://66.102.120.18:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Entertainment",SONY SAB HD (IND)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",SONY SAB HD (IND)
 http://87.255.35.150:18810/
-#EXTINF:-1 group-title="Entertainment" ,STAR GOLD HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR GOLD HD - Rs 19.00
 http://66.102.120.18:8000/play/a00f/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,STAR GOLD HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR GOLD HD
 http://87.255.35.150:18859
-#EXTINF:-1 group-title="Entertainment" ,STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR Movies HD - Rs 19.00
 http://66.102.120.18:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR Movies Select HD - Rs 19.00
 http://66.102.120.18:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,STAR Plus HD - Rs 22.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR Plus HD - Rs 22.00
 http://66.102.120.18:8000/play/a008/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,STAR PLUS HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR PLUS HD
 http://87.255.35.150:18850
-#EXTINF:-1 group-title="Entertainment",STAR PLUS HD (IND)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR PLUS HD (IND)
 http://87.255.35.150:18850/
-#EXTINF:-1 group-title="Entertainment",STAR BHARAT (IND)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR BHARAT (IND)
 http://87.255.35.150:18853/
-#EXTINF:0 group-title="Entertainment" ,STAR PRAVA
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",STAR PRAVA
 http://87.255.35.150:18853
-#EXTINF:-1 group-title="Entertainment" ,Sab TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Sab TV
 http://66.102.120.18:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,See TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",See TV
 http://66.102.120.18:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Showbox - Rs 0.10
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Showbox - Rs 0.10
 http://66.102.120.18:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Sindh TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Sindh TV
 http://66.102.120.18:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Star Gold 2 - Rs 3.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Star Gold 2 - Rs 3.00
 http://66.102.120.18:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Star Gold 2 HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Star Gold 2 HD
 http://66.102.120.18:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Star Gold Romance - Rs 2.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Star Gold Romance - Rs 2.00
 http://66.102.120.18:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Star Gold Select HD - Rs 8.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Star Gold Select HD - Rs 8.00
 http://66.102.120.18:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Star Gold Thrills - Rs 2.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Star Gold Thrills - Rs 2.00
 http://66.102.120.18:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Zee Anmol Cinema - Rs 0.10
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Zee Anmol Cinema - Rs 0.10
 http://66.102.120.18:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Zee Bollywood - Rs 3.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Zee Bollywood - Rs 3.00
 http://66.102.120.18:8000/play/a00n/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,ZEE BOLLYWOOD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",ZEE BOLLYWOOD
 http://87.255.35.150:18855
-#EXTINF:-1 group-title="Entertainment" ,Zee Cafe HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Zee Cafe HD
 http://66.102.120.18:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Zee Cinema HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Zee Cinema HD
 http://66.102.120.18:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Zee Classic - Rs 0.10
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Zee Classic - Rs 0.10
 http://66.102.120.18:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Zee TV HD - Rs 19.00
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",Zee TV HD - Rs 19.00
 http://66.102.120.18:8000/play/a00y/index.m3u8
-#EXTINF:0 group-title="Entertainment" ,ZEE TV HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",ZEE TV HD
 http://87.255.35.150:18843
-#EXTINF:-1 group-title="Entertainment",ZEE TV HD (IND)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",ZEE TV HD (IND)
 http://87.255.35.150:18849/
-#EXTINF:0 group-title="Entertainment" ,ZOOM
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",ZOOM
 http://87.255.35.150:18842
-#EXTINF:-1 group-title="Entertainment",ZOOM (IND)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",ZOOM (IND)
 http://87.255.35.150:18842/
-#EXTINF:-1 group-title="Entertainment",MTV (IND)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://download.rsciptv.site/logo.jpg",MTV (IND)
 http://87.255.35.150:18901/
