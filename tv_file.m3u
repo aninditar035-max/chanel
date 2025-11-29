@@ -109,14 +109,6 @@ http://66.102.120.18:8000/play/a00h/index.m3u8
 http://66.102.120.18:8000/play/a071/index.m3u8
 #EXTINF:-1 ,SONY PIX HD - Rs 19.00
 http://66.102.120.18:8000/play/a01z/index.m3u8
-#EXTINF:-1 ,SONY SPORTS TEN 1 HD - Rs 19.00
-http://66.102.120.18:8000/play/a012/index.m3u8
-#EXTINF:-1 ,SONY SPORTS TEN 2 HD - Rs 19.00
-http://66.102.120.18:8000/play/a01y/index.m3u8
-#EXTINF:-1 ,SONY SPORTS TEN 3 HD - Rs 19.00
-http://66.102.120.18:8000/play/a013/index.m3u8
-#EXTINF:-1 ,SONY SPORTS TEN 4 - Rs 17.00
-http://66.102.120.18:8000/play/a014/index.m3u8
 #EXTINF:-1 ,SONY YAY! - Rs 4.00
 http://66.102.120.18:8000/play/a00s/index.m3u8
 #EXTINF:-1 ,STAR GOLD HD - Rs 19.00
@@ -127,14 +119,6 @@ http://66.102.120.18:8000/play/a021/index.m3u8
 http://66.102.120.18:8000/play/a020/index.m3u8
 #EXTINF:-1 ,STAR Plus HD - Rs 22.00
 http://66.102.120.18:8000/play/a008/index.m3u8
-#EXTINF:-1 ,STAR SPORTS S1 HD
-http://66.102.120.18:8000/play/a06x/index.m3u8
-#EXTINF:-1 ,STAR SPORTS S2 HD
-http://66.102.120.18:8000/play/a06y/index.m3u8
-#EXTINF:-1 ,STAR Sports 1 Hindi HD
-http://66.102.120.18:8000/play/a072/index.m3u8
-#EXTINF:-1 ,STAR Sports2 Hindi HD
-http://66.102.120.18:8000/play/a00v/index.m3u8
 #EXTINF:-1 ,SUNO NEWS HD
 http://66.102.120.18:8000/play/a05n/index.m3u8
 #EXTINF:-1 ,Sab TV
@@ -159,14 +143,6 @@ http://66.102.120.18:8000/play/a00r/index.m3u8
 http://66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:-1 ,Star Gold Thrills - Rs 2.00
 http://66.102.120.18:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,Star Sports 1 HD - Rs 19.00
-http://66.102.120.18:8000/play/a009/index.m3u8
-#EXTINF:-1 ,Star Sports 1 Hindi - Rs 19.00
-http://66.102.120.18:8000/play/a00i/index.m3u8
-#EXTINF:0 group-title="SPORTS" ,STAR SPORTS 2HD HINDI
-http://87.255.35.150:18882
-#EXTINF:0 group-title="SPORTS" ,STAR SPORTS SELECT HD 1
-http://87.255.35.150:18893
 #EXTINF:-1 ,Zee Anmol Cinema - Rs 0.10
 http://66.102.120.18:8000/play/a01v/index.m3u8
 #EXTINF:-1 ,Zee Bollywood - Rs 3.00
@@ -219,17 +195,23 @@ http://87.255.35.150:18853/
 #EXTINF:-1 group-title="",STAR PLUS HD (IND)
 http://87.255.35.150:18850/
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tinyurl.com/3zha6n7p",Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tinyurl.com/4hhkmttf",STAR Sports 1 Hindi HD
+http://66.102.120.18:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-08/2511081985052.jpg",STAR Sports2 Hindi HD
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ytimg.com/vi/DCEScnMb9PY/sddefault.jpg",STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png",STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Ten 1 HD 
 http://87.255.35.150:18926/
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Ten 2 HD
 http://66.102.120.18:8000/play/a01y
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tinyurl.com/4spysv9t",Sony Ten 3 HD
 http://87.255.35.150:18848/
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Ten 5 HD
 http://66.102.120.18:8000/play/a010
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
